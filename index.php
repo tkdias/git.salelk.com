@@ -4,7 +4,7 @@
 
 <?php
 echo "Page Setup : OK";
-println("")
+echo "  |  "
 echo "Remote Pull : OK";
 ?>
 
